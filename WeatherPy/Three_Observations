@@ -1,0 +1,24 @@
+1. Lattitude vs Temperature
+
+As a result of taking a look at the relationship of random cities based on the comparison between each city's maximum temperature and where each is located, the initial analysis indicated that is there is a possible temperature relationship based on a city's distance from the highest point in the northern hemisphere. (north pole).
+
+Further analysis was done on the Northern and Southern Hemispheres using the "Max Temp vs Latitude Linear Regression" scatter plots.
+The Northern Hemisphere plot shows a strong negative correlation between the temperature decreasing as a city's location is situated further away from the north pole. The Southern Hemisphere plot shows a moderate positive correlation between the temperature increasing as a city's location gets closer to the north pole.
+
+2. Lattitude vs Humidity
+
+As a result of taking a look at the relationship of random cities, based on the comparison between each city's humidity level and where each is located, the initial analysis indicated that there might or might not be a relationship between the two. This is supported by the
+overall "Latitude vs Humidity " scatter plot.
+
+Further analysis was done on both the Northern and Southern Hemispheres using the "Humidity vs Latitude Linear Regression" scatter plots.
+Both the Northern and Southern Hemispheres have weak positive correlations between the humidty and each random city's location.
+
+
+3. Lattitude vs Cloudiness  
+
+As a result of taking a look at the relationship of random cities, based on the comparison between each city's cloudiness and where each is located, the initial analysis indicated that is there might or might not be a relationship between the two. This is supported by the
+overall "Latitude vs Cloudiness" scatter plot.
+
+Further analysis was done on both the Northern and Southern Hemispheres using the "Cloudiness vs Latitude Linear Regression" scatter plots.
+Although the Southern Hemisphere has a slightly higher weak positive correlation than that of the Northern Hemisphere, both have weak positive correlations between the cloudiness and each random city's location. 
+
